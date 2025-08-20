@@ -34,6 +34,13 @@
         <br><br>
         <img width="1258" height="926" alt="Image of Introduction to Python Certificate" src="https://github.com/user-attachments/assets/f626da8b-8a46-40f5-9a8b-c7c56f61a002" />
     </li>
+<br><br>
+    <li>
+        Data Types in Python Certificate | codefinity.com <br>
+        https://codefinity.com/certificate/98f406f2-8e95-485c-b98e-791e7fcd02be/cf552d00-2991-4d8d-bab2-82d8904406ce
+        <br><br>
+        <img width="1258" height="926" alt="Image of Data Types in Python Certificate" src="https://github.com/user-attachments/assets/84642dc5-60cb-4ba7-adfc-19832287dacc" />
+    </li>
 </ul>
 <!--
 - 👯 I’m looking to collaborate on ...
