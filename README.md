@@ -48,6 +48,13 @@
         <br><br>
         <img width="1258" height="926" alt="Image of Python Data Structures Certificate"" src="https://github.com/user-attachments/assets/de38941b-bd08-4ed1-8c65-5ef8ee5cb25c" />
     </li>
+<br><br>
+    <li>
+        Conditional Statements in Python Certificate | codefinity.com <br>
+        https://codefinity.com/certificate/98f406f2-8e95-485c-b98e-791e7fcd02be/9ac87b53-133a-4974-8f1d-a9761888723b
+        <br><br>
+        <img width="1258" height="926" alt="Image of Conditional Statements in Python Certificate" src="https://github.com/user-attachments/assets/8cf6af11-d648-4cf9-8306-58e10bd10dd4" />
+    </li>
 </ul>
 <!--
 - 👯 I’m looking to collaborate on ...
