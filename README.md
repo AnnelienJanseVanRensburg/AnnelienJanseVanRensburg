@@ -55,6 +55,13 @@
         <br><br>
         <img width="1258" height="926" alt="Image of Conditional Statements in Python Certificate" src="https://github.com/user-attachments/assets/8cf6af11-d648-4cf9-8306-58e10bd10dd4" />
     </li>
+<br><br>
+    <li>
+        Python Loops Tutorial Certificate | codefinity.com <br>
+        https://codefinity.com/certificate/98f406f2-8e95-485c-b98e-791e7fcd02be/a8aeafab-f546-47e9-adb6-1d97b2927804
+        <br><br>
+        <img width="1258" height="926" alt="Image of Python Loops Tutorial Certificate" src="https://github.com/user-attachments/assets/ea8249c9-28fa-442f-909f-67fa4d91e5b8" />
+    </li>
 </ul>
 <!--
 - 👯 I’m looking to collaborate on ...
