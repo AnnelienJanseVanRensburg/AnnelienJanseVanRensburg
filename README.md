@@ -62,6 +62,20 @@
         <br><br>
         <img width="1258" height="926" alt="Image of Python Loops Tutorial Certificate" src="https://github.com/user-attachments/assets/ea8249c9-28fa-442f-909f-67fa4d91e5b8" />
     </li>
+<br><br>
+    <li>
+        Python Functions Tutorial Certificate | codefinity.com <br>
+        https://codefinity.com/certificate/98f406f2-8e95-485c-b98e-791e7fcd02be/79d9701e-2074-481c-8cc1-21e80c0ced5c
+        <br><br>
+        <img width="1258" height="926" alt="Image of Python Functions Tutorial Certificate" src="https://github.com/user-attachments/assets/928193a3-c0b2-4cb9-a738-8c4893851e56" />
+    </li>
+<br><br>
+    <li>
+        Python from Zero to Hero Certificate | codefinity.com <br>
+        https://codefinity.com/certificate/98f406f2-8e95-485c-b98e-791e7fcd02be/track/0a304895-6a15-4619-a852-fb320c493467?onNotFound=/courses/tracks/0a304895-6a15-4619-a852-fb320c493467?isCertificateModalOpen=true
+        <br><br>
+        <img width="775" height="560" alt="Image of Python from Zero to Hero Certificate" src="https://github.com/user-attachments/assets/3914aaeb-b15d-4c83-be4f-46eb2340ceef" />
+    </li>
 </ul>
 <!--
 - 👯 I’m looking to collaborate on ...
