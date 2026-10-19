@@ -19,7 +19,7 @@
         Software Engineering Bootcamp Certificate of Completion | HyperionDev
         Portfolio: https://www.hyperiondev.com/portfolio/AJ25090018948/
         https://www.hyperiondev.com/certificate/7663/certificate-of-completion?intent=view <br><br>
-        <img>
+        <img width="623" height="806" alt="HyperionDev Certificate" src="https://github.com/user-attachments/assets/f8e6673a-0b8c-4adc-98d4-2835ffff172f" />
     </li>
     <li>
         Responsive Web Design Certification | freeCodeCamp.org <br>
