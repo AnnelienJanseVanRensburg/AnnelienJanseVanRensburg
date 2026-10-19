@@ -16,6 +16,12 @@
 
 <ul>
     <li>
+        Software Engineering Bootcamp Certificate of Completion | HyperionDev
+        Portfolio: https://www.hyperiondev.com/portfolio/AJ25090018948/
+        https://www.hyperiondev.com/certificate/7663/certificate-of-completion?intent=view <br><br>
+        <img>
+    </li>
+    <li>
         Responsive Web Design Certification | freeCodeCamp.org <br>
         https://www.freecodecamp.org/certification/annelienjvr/responsive-web-design <br><br>
         <img width="1226" height="824" alt="Screenshot of Responsive Web Design Certificate" src="https://github.com/user-attachments/assets/c4c2fdff-6bd7-458c-b22c-27cee0c953c1" />
