@@ -1,9 +1,7 @@
 # About me
 
 <ul>
-    <li>🔭 I’m currently working on completing programming courses.</li>
-    <li>🏊‍♀️ Some of my hobies are swimming, playing piano, and any form of art or creative activities.</li>
-    <li>⚡ Fun fact: The Mona Lisa has no eyebrows.</li>
+    <li>🔭 I’m currently studying to get my Software Engineering degree from Eduvos.</li>
     <li>📫 How to reach me:
         <ul>
             <li>linkedIn: www.linkedin.com/in/annelien-janse-van-rensburg-288942271</li>
